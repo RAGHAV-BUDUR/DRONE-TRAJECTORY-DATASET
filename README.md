@@ -28,6 +28,16 @@ Each CSV file contains sequential time-series trajectory points with the followi
 - **Total rows:** ~766,140 data points
 - **Total size:** ~55.7 MB
 
+## FRED The Florence RGB-Event Drone Dataset
+
+https://drive.google.com/drive/folders/1pISIErXOx76xmCqkwhS3-azWOMlTKZMp
+
+## MMUAD Dataset
+
+https://github.com/ntu-aris/MMAUD
+
+https://www.kaggle.com/datasets/sakethramkodukula/mmaud-data
+
 ## Citation
 
 If you use this work in your research, please cite:
